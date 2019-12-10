@@ -22,9 +22,9 @@ def get_filters():
     """
     print('\033[7mBIKESHARE DATA ANALYSIS\033[0m')
     print('\033[1mHello! Let\'s explore some US bikeshare data!\033[0m')
-    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # get user input for city (chicago, new york city, washington).
     while True:
-        cityInput = input("Which city do you like to explore (chicago, new york city, or washington)': ").lower()
+        cityInput = input("Which city do you like to explore (Chicago, New York City, or Washington)': ").lower()
         if cityInput in CITY_DATA.keys():
             city = cityInput
             break
