@@ -5,7 +5,7 @@
 Bike Share Data Analysis
 
 ### Description
-This project represents and exploration and analysis of the Bike Share data collected in Chicago, New York City and Washington. The tools used here are: Pyhton, Numpy, and Pandas.
+This project explore and analyze the Bike Share data collected in Chicago, New York City and Washington. The tools used here are: Pyhton, Numpy, and Pandas.
 
 ### Files used
 three data files were used: 
